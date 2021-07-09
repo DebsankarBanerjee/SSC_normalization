@@ -16,3 +16,5 @@ This is the actual marks and normalized marks:
 This is the respective marks distribution:
 
 ![alt text](https://github.com/DebsankarBanerjee/SSC_normalization/blob/main/untitled.svg)
+
+**The remarkable thing to notice is that the normalization does not really create a distribution with balanced marks rather it creates a broader distribution. To understand this better more features should be explored with better guess of typical exam result patterns.** 

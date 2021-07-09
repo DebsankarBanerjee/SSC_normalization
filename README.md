@@ -11,7 +11,7 @@ Here 3 shifts of exams are taken with ~ 20 thousands candidates in each shift. T
 
 This is the actual marks and normalized marks:
 
-![alt text](https://github.com/DebsankarBanerjee/SSC_normalization/blob/main/untitled.svg)
+![alt text](https://github.com/DebsankarBanerjee/SSC_normalization/blob/main/untitled2.svg)
 
 This is the respective marks distribution:
 
